@@ -1,0 +1,10 @@
+[autorun]
+OPEN=AUTORUN.EXE
+ICON=AUTORUN.ICO
+
+shell\configure=&Configure...
+shell\configure\command=SETUP.EXE
+
+shell\install=&Install...
+shell\install\command=SETUP.EXE
+LABEL=“урецкий язык
